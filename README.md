@@ -2,9 +2,9 @@
 
 
 ## gRPC Server
-
+```
 docker run -i -p 8080:8080 relevantprogrammer/grpc-server:1.0.0
-
+```
 
 ## Rest endpoint
 
